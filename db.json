@@ -5,10 +5,13 @@
             "title": "Complete Web Development Bootcamp",
             "instructor": "John Doe",
             "duration": "20 hours",
+            "lessons": 120,
+            "price": 49,
             "rating": 4.8,
             "level": "Beginner",
             "description": "Learn full-stack web development from scratch.",
-            "image": "https://i.postimg.cc/example-course1.png",
+            "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+            "instructorImage": "https://randomuser.me/api/portraits/men/1.jpg",
             "category": "Development"
         },
         {
@@ -16,10 +19,13 @@
             "title": "React for Beginners",
             "instructor": "Jane Smith",
             "duration": "15 hours",
+            "lessons": 90,
+            "price": 39,
             "rating": 4.7,
             "level": "Beginner",
             "description": "Master React basics and build dynamic apps.",
-            "image": "https://i.postimg.cc/example-course2.png",
+            "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee",
+            "instructorImage": "https://randomuser.me/api/portraits/women/2.jpg",
             "category": "Development"
         },
         {
@@ -27,10 +33,13 @@
             "title": "Advanced JavaScript Concepts",
             "instructor": "Michael Lee",
             "duration": "18 hours",
+            "lessons": 110,
+            "price": 59,
             "rating": 4.9,
             "level": "Advanced",
             "description": "Deep dive into modern JavaScript techniques.",
-            "image": "https://i.postimg.cc/example-course3.png",
+            "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+            "instructorImage": "https://randomuser.me/api/portraits/men/3.jpg",
             "category": "Development"
         },
         {
@@ -38,10 +47,13 @@
             "title": "UI/UX Design Fundamentals",
             "instructor": "Emily Clark",
             "duration": "12 hours",
+            "lessons": 70,
+            "price": 35,
             "rating": 4.6,
             "level": "Beginner",
             "description": "Learn design principles and user experience.",
-            "image": "https://i.postimg.cc/example-course4.png",
+            "image": "https://images.unsplash.com/photo-1586717799252-bd134ad00e26",
+            "instructorImage": "https://randomuser.me/api/portraits/women/4.jpg",
             "category": "Design"
         },
         {
@@ -49,10 +61,13 @@
             "title": "Graphic Design Masterclass",
             "instructor": "David Brown",
             "duration": "16 hours",
+            "lessons": 95,
+            "price": 45,
             "rating": 4.5,
             "level": "Intermediate",
             "description": "Become a professional graphic designer.",
-            "image": "https://i.postimg.cc/example-course5.png",
+            "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97",
+            "instructorImage": "https://randomuser.me/api/portraits/men/5.jpg",
             "category": "Design"
         },
         {
@@ -60,10 +75,13 @@
             "title": "Digital Marketing 101",
             "instructor": "Sophia Wilson",
             "duration": "10 hours",
+            "lessons": 60,
+            "price": 29,
             "rating": 4.4,
             "level": "Beginner",
             "description": "Learn SEO, social media, and online marketing.",
-            "image": "https://i.postimg.cc/example-course6.png",
+            "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+            "instructorImage": "https://randomuser.me/api/portraits/women/6.jpg",
             "category": "Marketing"
         },
         {
@@ -71,10 +89,13 @@
             "title": "SEO Mastery",
             "instructor": "Chris Evans",
             "duration": "14 hours",
+            "lessons": 85,
+            "price": 42,
             "rating": 4.7,
             "level": "Intermediate",
             "description": "Optimize websites for search engines.",
-            "image": "https://i.postimg.cc/example-course7.png",
+            "image": "https://images.unsplash.com/photo-1508780709619-79562169bc64",
+            "instructorImage": "https://randomuser.me/api/portraits/men/7.jpg",
             "category": "Marketing"
         },
         {
@@ -82,21 +103,28 @@
             "title": "Python for Data Science",
             "instructor": "Olivia Taylor",
             "duration": "22 hours",
+            "lessons": 130,
+            "price": 65,
             "rating": 4.9,
             "level": "Intermediate",
             "description": "Analyze data using Python libraries.",
-            "image": "https://i.postimg.cc/example-course8.png",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+            "instructorImage": "https://randomuser.me/api/portraits/women/8.jpg",
             "category": "Data Science"
         },
+
         {
             "id": 9,
             "title": "Machine Learning A-Z",
             "instructor": "Andrew White",
             "duration": "25 hours",
+            "lessons": 150,
+            "price": 75,
             "rating": 4.8,
             "level": "Advanced",
             "description": "Build machine learning models step by step.",
-            "image": "https://i.postimg.cc/example-course9.png",
+            "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1",
+            "instructorImage": "https://randomuser.me/api/portraits/men/9.jpg",
             "category": "Data Science"
         },
         {
@@ -104,99 +132,18 @@
             "title": "Mobile App Development with Flutter",
             "instructor": "Daniel Green",
             "duration": "19 hours",
+            "lessons": 105,
+            "price": 55,
             "rating": 4.6,
             "level": "Intermediate",
             "description": "Create cross-platform mobile apps.",
-            "image": "https://i.postimg.cc/example-course10.png",
+            "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3",
+            "instructorImage": "https://randomuser.me/api/portraits/men/10.jpg",
             "category": "Development"
-        },
-        {
-            "id": 11,
-            "title": "Cybersecurity Basics",
-            "instructor": "Laura Adams",
-            "duration": "13 hours",
-            "rating": 4.5,
-            "level": "Beginner",
-            "description": "Learn how to protect systems and data.",
-            "image": "https://i.postimg.cc/example-course11.png",
-            "category": "Security"
-        },
-        {
-            "id": 12,
-            "title": "Ethical Hacking Advanced",
-            "instructor": "Kevin Scott",
-            "duration": "21 hours",
-            "rating": 4.7,
-            "level": "Advanced",
-            "description": "Master ethical hacking techniques.",
-            "image": "https://i.postimg.cc/example-course12.png",
-            "category": "Security"
-        },
-        {
-            "id": 13,
-            "title": "Photography Masterclass",
-            "instructor": "Emma Watson",
-            "duration": "11 hours",
-            "rating": 4.6,
-            "level": "Beginner",
-            "description": "Capture stunning photos like a pro.",
-            "image": "https://i.postimg.cc/example-course13.png",
-            "category": "Photography"
-        },
-        {
-            "id": 14,
-            "title": "Video Editing with Premiere Pro",
-            "instructor": "Ryan Cooper",
-            "duration": "17 hours",
-            "rating": 4.5,
-            "level": "Intermediate",
-            "description": "Edit professional videos easily.",
-            "image": "https://i.postimg.cc/example-course14.png",
-            "category": "Editing"
-        },
-        {
-            "id": 15,
-            "title": "Business Analytics",
-            "instructor": "Sophia Martinez",
-            "duration": "18 hours",
-            "rating": 4.7,
-            "level": "Intermediate",
-            "description": "Analyze business data for decision making.",
-            "image": "https://i.postimg.cc/example-course15.png",
-            "category": "Business"
-        },
-        {
-            "id": 16,
-            "title": "Node.js Backend Development",
-            "instructor": "Mark Johnson",
-            "duration": "20 hours",
-            "rating": 4.8,
-            "level": "Intermediate",
-            "description": "Build scalable backend APIs with Node.js.",
-            "image": "https://i.postimg.cc/example-course16.png",
-            "category": "Development"
-        },
-        {
-            "id": 17,
-            "title": "Next.js Full Guide",
-            "instructor": "Sarah Lee",
-            "duration": "16 hours",
-            "rating": 4.7,
-            "level": "Intermediate",
-            "description": "Learn server-side rendering with Next.js.",
-            "image": "https://i.postimg.cc/example-course17.png",
-            "category": "Development"
-        },
-        {
-            "id": 18,
-            "title": "Artificial Intelligence Basics",
-            "instructor": "Alan Walker",
-            "duration": "14 hours",
-            "rating": 4.6,
-            "level": "Beginner",
-            "description": "Understand the fundamentals of AI.",
-            "image": "https://i.postimg.cc/example-course18.png",
-            "category": "AI"
         }
+    ],
+    "products" :[
+        
     ]
+
 }
